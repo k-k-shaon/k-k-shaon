@@ -33,5 +33,6 @@ JWT, OAuth, Docker, AWS — keen to expand Backend skills.
 ---
 
 ## 📊 GitHub Stats  
-[![Shaon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-k-shaon&show_icons=true)](https://github.com/k-k-shaon)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-k-shaon)](https://github.com/k-k-shaon)
+![Shaon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-k-shaon&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-k-shaon&layout=compact)
+
