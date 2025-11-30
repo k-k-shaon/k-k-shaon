@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m **Al Kifayat Khan Shaon** 👋  
+**CSE Student | Backend Developer | Competitive Programmer**
 
-<!--
-**k-k-shaon/k-k-shaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools  
+- **Languages:** C, C++, Python, JavaScript  
+- **Backend:** Django, ORM, REST APIs  
+- **Database:** PostgreSQL, MySQL, SQLite  
+- **Web:** HTML, CSS, Tailwind CSS, Bootstrap  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** Data Structures & Algorithms, OOP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning  
+JWT, OAuth, Docker, AWS — keen to expand Backend skills.
+
+---
+
+## 📚 Highlights  
+- Solved **400+ problems** on competitive programming platforms.  
+- Built real-world projects using Django, REST APIs, and modern web tools.  
+- Organized and led events as Vice-President & Organizing Secretary of campus clubs.  
+
+---
+
+## 💬 Contact & Profiles  
+- Email: **kifayat.khan.shaon.656@gmail.com**  
+- Codeforces: **https://codeforces.com/profile/K_K_Shaon**  
+- GitHub: https://github.com/k-k-shaon  
+
+---
+
+## 📊 GitHub Stats  
+[![Shaon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-k-shaon&show_icons=true)](https://github.com/k-k-shaon)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-k-shaon)](https://github.com/k-k-shaon)
