@@ -1,34 +1,56 @@
 # Hi, I’m **Al Kifayat Khan Shaon** 👋  
-**CSE Student | Backend Developer | Competitive Programmer**
+**Backend Developer (Django) | CSE Student | Competitive Programmer**
 
 ---
 
-## 🔧 Skills & Tools  
-- **Languages:** C, C++, Python, JavaScript  
-- **Backend:** Django, ORM, REST APIs  
-- **Database:** PostgreSQL, MySQL, SQLite  
-- **Web:** HTML, CSS, Tailwind CSS, Bootstrap  
+## 🚀 About Me
+I am a Computer Science & Engineering student with strong hands-on experience in **Python and Django**.  
+I enjoy building **production-ready backend systems**, working with databases, authentication, and deployment pipelines.  
+Currently focused on growing as a **Django Backend Developer** in real-world environments.
+
+---
+
+## 🔧 Technical Skills
+- **Languages:** Python, C, C++, JavaScript  
+- **Backend:** Django, Django ORM, REST APIs  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Auth & Security:** Django Allauth (OAuth – Google, Facebook, Twitter)  
+- **DevOps / CI-CD:** GitHub Actions, Deployment on Render, Environment Variables  
+- **Frontend (Collaboration):** HTML, CSS, Bootstrap, Tailwind CSS  
 - **Tools:** Git, GitHub, VS Code  
-- **Concepts:** Data Structures & Algorithms, OOP  
+- **CS Fundamentals:** DSA, OOP  
 
 ---
 
-## 🌱 Currently Learning  
-JWT, OAuth, Docker, AWS — keen to expand Backend skills.
+## 🛠 Featured Project
+### 🎟 NFPS Events — Event Ticket Booking System
+**Tech:** Django, PostgreSQL, GitHub Actions, Render, Supabase  
+- Built and deployed a production-ready ticket booking platform  
+- Implemented authentication, database management, and CI/CD pipelines  
+- Managed cloud deployment and environment configuration  
+
+🔗 Live: https://nfps-events.onrender.com/  
+🔗 Code: https://github.com/k-k-shaon
 
 ---
 
-## 📚 Highlights  
-- Solved **400+ problems** on competitive programming platforms.  
-- Built real-world projects using Django, REST APIs, and modern web tools.  
-- Organized and led events as Vice-President & Organizing Secretary of campus clubs.  
+## 🌱 Currently Learning
+Django REST Framework (Advanced), JWT, Docker, Cloud Deployment (AWS basics)
 
 ---
 
-## 💬 Contact & Profiles  
-- Email: **kifayat.khan.shaon.656@gmail.com**  
-- Codeforces: **https://codeforces.com/profile/K_K_Shaon**  
-- GitHub: https://github.com/k-k-shaon  
+## 📚 Highlights
+- Solved **400+ problems** in competitive programming  
+- Strong problem-solving and debugging skills  
+- Leadership experience in university tech and science clubs  
+
+---
+
+## 💬 Contact & Profiles
+- 📧 Email: **kifayat.khan.shaon.656@gmail.com**  
+- 💻 GitHub: https://github.com/k-k-shaon  
+- 🧠 Codeforces: https://codeforces.com/profile/K_K_Shaon  
+- 🔗 LinkedIn: https://www.linkedin.com/in/alkifayatkhanshaon/
 
 ---
 
